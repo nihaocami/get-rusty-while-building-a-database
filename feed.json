@@ -12,14 +12,16 @@
         {
             "id": "https://nihaocami.github.io/rusty-db/test.html",
             "url": "https://nihaocami.github.io/rusty-db/test.html",
-            "title": "test",
+            "title": "Words That Need To Be Said",
+            "summary": "I have a motto. If you want to learn something very well, teach it - Some wise person Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again. So, as much&hellip;",
+            "content_html": "<p>I have a motto.</p>\n<blockquote>\n<p>If you want to learn something very well, teach it - Some wise person</p>\n</blockquote>\n<p>Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again.</p>\n<p>So, as much as I am making this as a contribution to Rust and Rust learners, it is also a selfish endeavour to learn more myself.</p>",
             "author": {
                 "name": "Chris A."
             },
             "tags": [
             ],
             "date_published": "2024-12-06T08:27:32-08:00",
-            "date_modified": "2024-12-06T08:42:08-08:00"
+            "date_modified": "2024-12-06T08:52:22-08:00"
         }
     ]
 }

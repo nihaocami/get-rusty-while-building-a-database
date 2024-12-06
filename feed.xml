@@ -3,14 +3,14 @@
     <title>Get Rusty While Building a Database</title>
     <link href="https://nihaocami.github.io/rusty-db/feed.xml" rel="self" />
     <link href="https://nihaocami.github.io/rusty-db" />
-    <updated>2024-12-06T08:42:08-08:00</updated>
+    <updated>2024-12-06T08:52:22-08:00</updated>
     <author>
         <name>Chris A.</name>
     </author>
     <id>https://nihaocami.github.io/rusty-db</id>
 
     <entry>
-        <title>test</title>
+        <title>Words That Need To Be Said</title>
         <author>
             <name>Chris A.</name>
         </author>
@@ -18,7 +18,20 @@
         <id>https://nihaocami.github.io/rusty-db/test.html</id>
 
         <updated>2024-12-06T08:27:32-08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    I have a motto. If you want to learn something very well, teach it - Some wise person Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again. So, as much&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have a motto.</p>
+<blockquote>
+<p>If you want to learn something very well, teach it - Some wise person</p>
+</blockquote>
+<p>Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again.</p>
+<p>So, as much as I am making this as a contribution to Rust and Rust learners, it is also a selfish endeavour to learn more myself.</p>
+            ]]>
+        </content>
     </entry>
 </feed>

@@ -14,14 +14,14 @@
             "url": "https://nihaocami.github.io/rusty-db/test.html",
             "title": "Words That Need To Be Said",
             "summary": "I have a motto. If you want to learn something very well, teach it - Some wise person Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again. So, as much&hellip;",
-            "content_html": "<p>I have a motto.</p>\n<blockquote>\n<p>If you want to learn something very well, teach it - Some wise person</p>\n</blockquote>\n<p>Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again.</p>\n<p>So, as much as I am making this as a contribution to Rust and Rust learners, it is also a selfish endeavour to learn more myself.</p>",
+            "content_html": "<p>I have a motto.</p>\n<blockquote>\n<p>If you want to learn something very well, teach it - Some wise person</p>\n</blockquote>\n<p>Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again. So, as much as I am making this as a contribution to Rust and Rust learners, it is also a selfish endeavour to learn more myself.</p>\n<p>In this series, I will be making a simple \"lite\" database like SQLite from scratch. Though I am aiming to build a NoSql version. Building a database is no simple task and it's a project that I am hoping to keep going for years to come.</p>\n<p>While doing this, we will be learning things as simple as defining functions in Rust and as advanced as handling multithreading, memory management and more.</p>\n<p>I hope you find these posts useful and that it can help you in your journey to becoming Rusty.</p>",
             "author": {
                 "name": "Chris A."
             },
             "tags": [
             ],
             "date_published": "2024-12-06T08:27:32-08:00",
-            "date_modified": "2024-12-06T08:52:22-08:00"
+            "date_modified": "2024-12-06T10:03:57-08:00"
         }
     ]
 }

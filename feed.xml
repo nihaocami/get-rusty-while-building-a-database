@@ -3,14 +3,14 @@
     <title>Get Rusty While Building a Database</title>
     <link href="https://nihaocami.github.io/rusty-db/feed.xml" rel="self" />
     <link href="https://nihaocami.github.io/rusty-db" />
-    <updated>2024-12-06T10:03:57-08:00</updated>
+    <updated>2024-12-06T11:24:43-08:00</updated>
     <author>
         <name>Chris A.</name>
     </author>
     <id>https://nihaocami.github.io/rusty-db</id>
 
     <entry>
-        <title>Words That Need To Be Said</title>
+        <title>#0: Words That Need To Be Said</title>
         <author>
             <name>Chris A.</name>
         </author>
@@ -31,7 +31,7 @@
 </blockquote>
 <p>Well, not exactly mine. But it is something I heard long time ago and it has proven to be true time and time again. So, as much as I am making this as a contribution to Rust and Rust learners, it is also a selfish endeavour to learn more myself.</p>
 <p>In this series, I will be making a simple "lite" database like SQLite from scratch. Though I am aiming to build a NoSql version. Building a database is no simple task and it's a project that I am hoping to keep going for years to come.</p>
-<p>While doing this, we will be learning things as simple as defining functions in Rust and as advanced as handling multithreading, memory management and more.</p>
+<p>While doing this, we will be learning things as simple as defining functions in Rust and as advanced as handling multithreading, memory management and more. I should note that this won't be a "intro to programming" series and I assume you already have some fundamental understanding of programming concepts.</p>
 <p>I hope you find these posts useful and that it can help you in your journey to becoming Rusty.</p>
             ]]>
         </content>

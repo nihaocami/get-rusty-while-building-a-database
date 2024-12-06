@@ -5,6 +5,7 @@
     "home_page_url": "https://nihaocami.github.io/rusty-db",
     "feed_url": "https://nihaocami.github.io/rusty-db/feed.json",
     "user_comment": "",
+    "icon": "https://nihaocami.github.io/rusty-db/media/website/rust-db.png",
     "author": {
         "name": "Chris A."
     },

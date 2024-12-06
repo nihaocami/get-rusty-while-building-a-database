@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Get Rusty While Building a Database</title>
+    <link href="https://nihaocami.github.io/rusty-db/feed.xml" rel="self" />
+    <link href="https://nihaocami.github.io/rusty-db" />
+    <updated>2024-12-06T08:42:08-08:00</updated>
+    <author>
+        <name>Chris A.</name>
+    </author>
+    <id>https://nihaocami.github.io/rusty-db</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Chris A.</name>
+        </author>
+        <link href="https://nihaocami.github.io/rusty-db/test.html"/>
+        <id>https://nihaocami.github.io/rusty-db/test.html</id>
+
+        <updated>2024-12-06T08:27:32-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

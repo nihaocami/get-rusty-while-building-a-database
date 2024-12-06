@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nihaocami.github.io/rusty-db/sitemap.xml

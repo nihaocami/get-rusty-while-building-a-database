@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Get Rusty While Building a Database",
+    "description": "",
+    "home_page_url": "https://nihaocami.github.io/rusty-db",
+    "feed_url": "https://nihaocami.github.io/rusty-db/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chris A."
+    },
+    "items": [
+        {
+            "id": "https://nihaocami.github.io/rusty-db/test.html",
+            "url": "https://nihaocami.github.io/rusty-db/test.html",
+            "title": "test",
+            "author": {
+                "name": "Chris A."
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-06T08:27:32-08:00",
+            "date_modified": "2024-12-06T08:42:08-08:00"
+        }
+    ]
+}

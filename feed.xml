@@ -3,7 +3,7 @@
     <title>Get Rusty While Building a Database</title>
     <link href="https://nihaocami.github.io/get-rusty-while-building-a-database/feed.xml" rel="self" />
     <link href="https://nihaocami.github.io/get-rusty-while-building-a-database" />
-    <updated>2024-12-08T09:59:00-08:00</updated>
+    <updated>2024-12-08T17:34:44-08:00</updated>
     <author>
         <name>Chris A.</name>
     </author>
@@ -49,7 +49,11 @@
 <p>You can also use the following to build your program:</p>
 <pre class="language-bash"><code>rustc &lt;PATH_TO_MAIN.RS&gt;</code></pre>
 <p>Although I don't recommend that if you're just starting out. Cargo is generally the more "friendly" way to go.</p>
-<p>One last thing, if you prefer to use you're editor to run your application, I am sure you can find an extension for it. Since I use VS code, I use the <a href="https://rust-analyzer.github.io" target="_blank" rel="nofollow noopener noreferrer">Rust Analyzer</a> extension which provides tons of features including build/run.</p>
+<p>One last thing, if you prefer to use you're editor to run your application, I am sure you can find an extension for it. Since I use VS Code, I use the <a href="https://rust-analyzer.github.io" target="_blank" rel="nofollow noopener noreferrer">Rust Analyzer</a> extension which provides tons of features including build/run.</p>
+<p>After running one of the above commands, you should now see an executable file built for your system. If you run that file through your command line, you should see the classic:</p>
+<pre class="language-bash"><code>Hello, world!</code></pre>
+<p>Hooray! now that you're all set up, in the next chapter, we start to actually implement the db. </p>
+<p>Stay tuned :)</p>
             ]]>
         </content>
     </entry>

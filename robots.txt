@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://nihaocami.github.io/get-rusty-while-building-a-database/sitemap.xml

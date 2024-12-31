@@ -5,14 +5,14 @@
     <link href="https://nihaocami.github.io/get-rusty-while-building-a-database" />
     <updated>2024-12-27T09:02:05-08:00</updated>
     <author>
-        <name>Chris A.</name>
+        <name>Chris Amirani</name>
     </author>
     <id>https://nihaocami.github.io/get-rusty-while-building-a-database</id>
 
     <entry>
         <title>#2: Adding a Storage Module</title>
         <author>
-            <name>Chris A.</name>
+            <name>Chris Amirani</name>
         </author>
         <link href="https://nihaocami.github.io/get-rusty-while-building-a-database/2-adding-a-storage-module.html"/>
         <id>https://nihaocami.github.io/get-rusty-while-building-a-database/2-adding-a-storage-module.html</id>
@@ -83,7 +83,7 @@
     <entry>
         <title>#1: Setting Up a New Rust Project</title>
         <author>
-            <name>Chris A.</name>
+            <name>Chris Amirani</name>
         </author>
         <link href="https://nihaocami.github.io/get-rusty-while-building-a-database/1-setting-up-a-new-rust-project.html"/>
         <id>https://nihaocami.github.io/get-rusty-while-building-a-database/1-setting-up-a-new-rust-project.html</id>
@@ -131,7 +131,7 @@
     <entry>
         <title>#0: Words That Need To Be Said</title>
         <author>
-            <name>Chris A.</name>
+            <name>Chris Amirani</name>
         </author>
         <link href="https://nihaocami.github.io/get-rusty-while-building-a-database/preface.html"/>
         <id>https://nihaocami.github.io/get-rusty-while-building-a-database/preface.html</id>
